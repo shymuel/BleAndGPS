@@ -1,0 +1,8 @@
+<resources>
+    <string name="app_name">MyBLE</string>
+    <string name="not_begin">未开始搜索</string>
+    <string name="shower_str12">停止搜索</string>
+    <string name="shower_str4">搜索中</string>
+    <string name="not_bound">未绑定</string>
+    <string name="shower_str6">搜索终止</string>
+</resources>
